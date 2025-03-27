@@ -11,3 +11,4 @@ elif salary > 30000 and salary < 50000:
   print("Medium Income")
 else:
   print("Low Income")
+ #This is my first edit on GitHub
